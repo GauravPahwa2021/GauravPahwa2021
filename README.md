@@ -22,7 +22,6 @@ Portfolio Website: https://gauravpahwa2021.github.io/Personal_Portfolio/
 
 How to reach me : gauravpahwa2020@gmail.com
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
