@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="[https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba]" target="_blank"> Gaurav Pahwa </a></h1>
-Hi I'm Gaurav Pahwa
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/" target="_blank"> Gaurav Pahwa </a></h1>
 
 I am a b.tech student currently pursuing my graduation degree from malaviya national institute of technoloy (MNIT),jaipur collage.My goal is to become an accomplished professional by utilizing my skills to add values to the organization. I always eager to learn new technologies to make me more efficient and effective in my work.
 
