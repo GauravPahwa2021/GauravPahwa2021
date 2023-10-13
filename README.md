@@ -16,8 +16,6 @@ Data Analytics : Python,Statistics,SQL,Microsoft Excel;
 
 Data Science : Python Library-(Numpy,Pandas,Matplotlib,Scikit-Learn,TensorFlow,Keras),Stats,EDA,Feature Engineering,Time series Analysis,Machine Learning,Deep Learning;
 
-Linkedin: https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/
-
 Portfolio Website: https://gauravpahwa2021.github.io/Personal_Portfolio/
 
 How to reach me : gauravpahwa2020@gmail.com
