@@ -2,19 +2,19 @@
 
 I am a b.tech student currently pursuing my graduation degree from malaviya national institute of technoloy (MNIT),jaipur collage.My goal is to become an accomplished professional by utilizing my skills to add values to the organization. I always eager to learn new technologies to make me more efficient and effective in my work.
 
-Programing Languages : C,C++,Python,Java-script;
+Programing Languages : C++,Python,SQL,Java-script;
 
 CSE Core Subject : Data Structure And Algorithm,DBMS,OOPS;
 
-Front-End : HTML,CSS,Java-Script,Boostrap,JQuery,React-JS;
+Front-End : HTML,CSS,Java-Script,Bootstrap,ReactJS;
 
-Back-End : Node-Js,Express-Js,MongoDB;
+Back-End : NodeJs,ExpressJs;
 
-Databases And Languages: SQL,MySQL,MongoDB;
+Databases : MySQL,MongoDB;
 
-Data Analytics : Python,Statistics,SQL,Microsoft Excel;
+Data Analytics : Statistics,SQL,Microsoft Excel;
 
-Data Science : Python Library-(Numpy,Pandas,Matplotlib,Scikit-Learn,TensorFlow,Keras),Stats,EDA,Feature Engineering,Time series Analysis,Machine Learning,Deep Learning;
+Data Science : Python Library-(Numpy,Pandas,Matplotlib,Scikit-Learn,TensorFlow,Keras),EDA,Feature Engineering,Time series Analysis,Machine Learning,Deep Learning;
 
 Portfolio Website: https://gauravpahwa2021.github.io/Personal_Portfolio/
 
