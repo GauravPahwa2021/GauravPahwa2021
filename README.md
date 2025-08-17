@@ -4,7 +4,7 @@ I am a b.tech student currently pursuing my graduation degree from malaviya nati
 
 Programing Languages : C++, Python, Java, SQL, TypeScript;
 
-Front-End : React.jS, Redux-Toolkit;
+Front-End : React.js, Redux-Toolkit;
 
 Back-End : SpringBoot, JPA/Hibernate, RESTful APIs, JWT/OAuth, FastAPI;
 
