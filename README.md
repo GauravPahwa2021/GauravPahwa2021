@@ -35,6 +35,4 @@ How to reach me : gauravpahwa2020@gmail.com
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=GauravPahwa2021)
 
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPahwa2021)
-
 
