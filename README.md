@@ -2,21 +2,17 @@
 
 I am a b.tech student currently pursuing my graduation degree from malaviya national institute of technoloy (MNIT),jaipur collage.My goal is to become an accomplished professional by utilizing my skills to add values to the organization. I always eager to learn new technologies to make me more efficient and effective in my work.
 
-Programing Languages : C++, Python, SQL, Java-script;
+Programing Languages : C++, Python, Java, SQL, TypeScript;
 
-CSE Core Subject : DSA, DBMS, OOPS;
+Front-End : React.jS, Redux-Toolkit;
 
-Front-End : HTML, CSS, Java-Script, Bootstrap, ReactJS, Redux-Toolkit;
-
-Back-End : NodeJs, ExpressJs, Flask;
+Back-End : SpringBoot, JPA/Hibernate, RESTful APIs, JWT/OAuth, FastAPI;
 
 Databases : MySQL, MongoDB;
 
-Cloud And DevOps : AWS Cloud, Linux, Networking, Shell Scripting, Jenkins CI/CD, Terraform, Docker, Kubernetes;
+Cloud And DevOps : AWS Cloud, Linux, Networking, Shell Scripting, CI/CD, Terraform, Docker, Kubernetes;
 
 Data Science : Python Library-(Numpy,Pandas,Matplotlib,Scikit-Learn,TensorFlow,Pytorch), Statistics, Feature Engineering, Machine Learning, Supervised Deep Learning;
-
-Portfolio Website: https://gauravpahwa2021.github.io/Personal_Portfolio/
 
 How to reach me : gauravpahwa2020@gmail.com
 
