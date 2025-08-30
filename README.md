@@ -1,4 +1,4 @@
-<img width="2194" height="2500" alt="image" src="https://github.com/user-attachments/assets/d62f7221-ef7e-4063-bcdd-e5ef060aca61" /><h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/" target="_blank"> Gaurav Pahwa </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/" target="_blank"> Gaurav Pahwa </a></h1>
 
 I have a total of 1+ years of Experience working in the Software Development space and I keep strong knowledge about Full Stack Development using TypeScript, React.js, Redux, Java, Spring boot, Hibernate, REST Apis, AWS, Python, SQL, Machine Learning.
 Apart from this I am actively working towards expanding my skills and knowledge about System Design and Architecture for creating Scalable, High-Performance, Resilient, Secure and Cost Optimized solutions.
@@ -26,11 +26,10 @@ How to reach me : gauravpahwa2020@gmail.com
       <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react-2" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="55" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1" alt="spring-boot-1" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Expressjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring-Boot" width="55" height="75"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql-logo-pure" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb-icon-2" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="55" height="55"/> 
       <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="55"/>
