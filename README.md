@@ -1,6 +1,8 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/" target="_blank"> Gaurav Pahwa </a></h1>
+<img width="2194" height="2500" alt="image" src="https://github.com/user-attachments/assets/d62f7221-ef7e-4063-bcdd-e5ef060aca61" /><h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/gaurav-pahwa-2a563a1ba/" target="_blank"> Gaurav Pahwa </a></h1>
 
-I am a b.tech student currently pursuing my graduation degree from malaviya national institute of technoloy (MNIT),jaipur collage.My goal is to become an accomplished professional by utilizing my skills to add values to the organization. I always eager to learn new technologies to make me more efficient and effective in my work.
+I have a total of 1+ years of Experience working in the Software Development space and I keep strong knowledge about Full Stack Development using TypeScript, React.js, Redux, Java, Spring boot, Hibernate, REST Apis, AWS, Python, SQL, Machine Learning.
+Apart from this I am actively working towards expanding my skills and knowledge about System Design and Architecture for creating Scalable, High-Performance, Resilient, Secure and Cost Optimized solutions.
+I also have knowledge about artificial intelligence and machine learning systems to leverage my skills to create intelligent systems.
 
 Programing Languages : C++, Python, Java, SQL, TypeScript;
 
@@ -18,10 +20,13 @@ How to reach me : gauravpahwa2020@gmail.com
 
 - 🧑‍💻 Tech I work on :
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python-5" width="55" height="55"/>
       <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="55" height="55"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" alt="java-script" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react-2" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1" alt="spring-boot-1" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Expressjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
